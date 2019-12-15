@@ -26,7 +26,7 @@ if (temperature < -40 || temperature > 40) {
   console.log("Maybe going outside isn't such a great idea…");
 }
 
-// Raining, or no? //
+// Is it raining or what? //
 
 var raining = true
 
